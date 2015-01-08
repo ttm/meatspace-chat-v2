@@ -27,7 +27,7 @@
     "twitter-text": "~1.9.4",
     "uuid": "^2.0.1",
     "vid2gif": "^1.0.1",
-    "waypoints": "imakewebthings/jquery-waypoints.git#922fa1a5b4435e8aba032fadbe009a2647b32239",
+    "waypoints": "imakewebthings/waypoints.git",
     "webrtc2images": "~1.4.3"
   },
   "devDependencies": {
